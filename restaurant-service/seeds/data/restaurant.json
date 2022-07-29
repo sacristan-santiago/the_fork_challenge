@@ -1,0 +1,242 @@
+[
+  {
+    "restaurant_uuid": "92f58efd-dbc5-4262-a7df-693622675c08",
+    "name": "5 Min Cafe",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "2e340486-3ab5-428f-9ef8-1f81461587d4",
+    "name": "Big Mountain",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "c49f90b5-4854-4841-9d97-265655ce2702",
+    "name": "Silver River",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "9c2958da-222a-4690-8b9a-530157d9e466",
+    "name": "Red Dragon",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "bdebbf74-229d-4484-8f3d-62a3342b4571",
+    "name": "Sweet Snow",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "69a87375-be4a-422c-863c-6d31c97f4866",
+    "name": "Foodland",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "29b5a0f6-42f5-4c97-b8af-f407e97e049e",
+    "name": "Five Star",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "b7079a3f-7b9d-4615-80a6-c6db62f946b3",
+    "name": "Blue Cuttlefish",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "33b6a9cf-bf45-4562-a73a-d1a7906b869b",
+    "name": "Tasty Time",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "dddf5d2e-b3f0-4898-9b00-c42fbc947488",
+    "name": "Tasty Things",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "6c3ab0ed-f015-4c1b-8e2b-7447566fb24a",
+    "name": "Good Morning",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "1f2e8f7b-f948-4a2a-8a60-4137fe2e911c",
+    "name": "Cheesy",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "50beb55f-2ea5-4678-b654-840509b5643d",
+    "name": "Nine Seas",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "03382530-327c-4b76-b4c9-05f313f4e624",
+    "name": "Five Oceans",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "0d53f486-1fdf-427f-929d-24380b7bace0",
+    "name": "Fish Thursday",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "d7c9d926-dbda-49fe-84b8-7057d89a89a4",
+    "name": "Sweet Dreams",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "1b148302-15b5-47ec-b7ce-7d9a1b9ec5ae",
+    "name": "Yellow Submarine",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "a80c1a9b-0862-49fb-861e-7e31760aff16",
+    "name": "Good Food",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "9a27a932-79a7-4648-89aa-f62cebed9b7f",
+    "name": "Plane Grill",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "8b53490b-0519-4058-ad03-53d64c461adb",
+    "name": "Steak House",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "0095ed3b-55a5-446e-980f-cbce6b357dcf",
+    "name": "Green House",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "21e9f752-d43b-4e45-9a3b-b4e9ba7db77f",
+    "name": "Green Land",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "9b2cd234-efac-43ab-8510-a6a1bfd71e69",
+    "name": "BBQ Night",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "231b4aa4-bc8e-41b2-be96-a221b8dd865b",
+    "name": "Perfect Dish",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "8ba9e87c-ef58-4862-9e54-884eb4db8cc2",
+    "name": "Quickly",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "1a76be05-4410-4592-9e98-93ec87f6ae5c",
+    "name": "Your Cook",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "48875944-b9f4-4a59-b99b-c4d7607fd40d",
+    "name": "Very Homemade Food",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "3df80583-6f6d-4d6a-b74e-f93a0dfae251",
+    "name": "By Grandma",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "e9bfa70a-80be-4fa7-b09b-56f695088af1",
+    "name": "Spicy Dragon",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "1babbd20-239a-4565-aeda-3b31cf577a00",
+    "name": "Sea Miracle",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "56d7e232-5e3f-414d-b291-53c750fe144d",
+    "name": "Big Table",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "4f46e5ed-0c61-44e7-8727-16014d5a6199",
+    "name": "Mysteries of the East",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "98298147-5bc4-4c06-840a-929e122e826c",
+    "name": "Curcuma",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "727fa1f2-1f2c-44c0-ac37-11e98bdd72d7",
+    "name": "Last Time",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "8fd15778-4762-412d-93c0-5544f43dcd7a",
+    "name": "That Restaurant",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "f16ec2f6-0b79-4166-9e7f-0db54a130a3a",
+    "name": "Big Chef",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "9c245c81-1925-4b28-9ffb-b5b62a5363e8",
+    "name": "American Pie",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "df652f3e-70a9-49b7-930a-cfe57bdaae29",
+    "name": "Rock and Roll cafe",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "0a3f611f-e855-4885-aa89-5c30a4ff376f",
+    "name": "Alpine Meadow",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "36c4508d-17f8-480a-87b7-946bac37d359",
+    "name": "Sea Breeze",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "eb208058-11ef-4670-8889-4fcaddcd15f1",
+    "name": "Red Tablecloth",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "e2c1cc6b-20b4-4199-91a4-da2e5102467b",
+    "name": "Coffee and Cake",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "29fd4fdd-6fc5-4c73-b330-bce92c72f712",
+    "name": "Oceanus",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "e2f7f4c0-535b-4868-935d-cb59f96a576d",
+    "name": "Long Eel",
+    "country_code": "FR"
+  },
+  {
+    "restaurant_uuid": "798f8252-f238-4e18-9be7-442e7219b834",
+    "name": "Sugar Blast",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "42e8929b-26a2-4b56-8bbc-ebab75dd9b31",
+    "name": "Spaghetti House",
+    "country_code": "UK"
+  },
+  {
+    "restaurant_uuid": "3d68d343-cd4c-4477-a122-7ae4a2394d7b",
+    "name": "Last Cake",
+    "country_code": "ES"
+  },
+  {
+    "restaurant_uuid": "3b7c5e57-6faf-4676-ba20-49982a47cc44",
+    "name": "Good Taste",
+    "country_code": "FR"
+  }
+]

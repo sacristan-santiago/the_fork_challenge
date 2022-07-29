@@ -1,0 +1,51 @@
+{
+  "name": "thefork",
+  "version": "1.0.0",
+  "description": "thefork test",
+  "main": "dist/server",
+  "scripts": {
+    "test": "jest",
+    "migration": "knex migrate:latest",
+    "migration:rollback": "knex migrate:rollback --all",
+    "seed": "knex seed:run",
+    "init:db": "npm run migration && npm run seed",
+    "build": "rm -rf dist && tsc",
+    "start": "node dist/server",
+    "watch": "nodemon",
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/config": "0.0.38",
+    "@types/express": "^4.17.11",
+    "@types/graphql": "^14.5.0",
+    "@types/jest": "^26.0.22",
+    "@types/long": "^4.0.2",
+    "@types/node": "^14.14.22",
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.7",
+    "ts-jest": "^26.5.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {
+    "apollo-server-express": "2.19.2",
+    "axios": "^0.21.1",
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "knex": "^0.95.2",
+    "pg": "^8.5.1"
+  },
+  "keywords": [
+    "Typescript",
+    "GraphQL",
+    "Node",
+    "Javascript"
+  ]
+}

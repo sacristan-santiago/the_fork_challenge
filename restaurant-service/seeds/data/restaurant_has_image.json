@@ -1,0 +1,22 @@
+[
+  {
+    "restaurant_uuid": "92f58efd-dbc5-4262-a7df-693622675c08",
+    "image_uuid": "b228cef9-e8b3-4f0d-b1ac-983ad28b9462"
+  },
+  {
+    "restaurant_uuid": "92f58efd-dbc5-4262-a7df-693622675c08",
+    "image_uuid": "0bed02f0-53b0-432c-9a6c-3c3fdcc4f3ff"
+  },
+  {
+    "restaurant_uuid": "92f58efd-dbc5-4262-a7df-693622675c08",
+    "image_uuid": "db077d40-fc3a-4cc1-8aaf-83d03e81d67f"
+  },
+  {
+    "restaurant_uuid": "2e340486-3ab5-428f-9ef8-1f81461587d4",
+    "image_uuid": "db077d40-fc3a-4cc1-8aaf-83d03e81d67f"
+  },
+  {
+    "restaurant_uuid": "c49f90b5-4854-4841-9d97-265655ce2702",
+    "image_uuid": "b04ab411-2e35-4492-a5ce-c96691e73d68"
+  }
+]

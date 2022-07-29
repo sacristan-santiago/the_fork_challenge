@@ -1,0 +1,14 @@
+[
+  {
+    "country_code": "UK",
+    "locales": ["en_GB", "cy_GB"]
+  },
+  {
+    "country_code": "FR",
+    "locales": ["fr_FR"]
+  },
+  {
+    "country_code": "ES",
+    "locales": ["es_ES", "ca_ES", "eu_ES", "gl_ES"]
+  }
+]

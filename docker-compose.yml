@@ -1,0 +1,66 @@
+version: '2.4'
+services:
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: thefork
+    ports:
+      - '5432:5432'
+    volumes:
+      - ./db:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U $$POSTGRES_USER']
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - dev
+
+  image-service:
+    build:
+      context: image-service
+      args:
+        - NODE_ENV=development
+    command: npm start
+    ports:
+      - '3010:3010'
+    networks:
+      - dev
+
+  init-restaurant-service:
+    build:
+      context: restaurant-service
+      args:
+        - NODE_ENV=development
+    command: npm run init:db
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./restaurant-service:/code
+      - /code/node_modules
+    networks:
+      - dev
+
+  restaurant-service:
+    build:
+      context: restaurant-service
+      args:
+        - NODE_ENV=development
+    command: npm run watch
+    depends_on:
+      - init-restaurant-service
+      - image-service
+    volumes:
+      - ./restaurant-service:/code
+      - /code/node_modules
+    ports:
+      - '3000:3000'
+    networks:
+      - dev
+
+networks:
+  dev:
+    external: true
